@@ -1,0 +1,16 @@
+name = "GlibNetworking_jll"
+uuid = "99fd4003-298c-58dc-a8c7-c8e9475755a1"
+version = "2.74.0+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+OpenSSL_jll = "458c3c95-2e84-50aa-8efc-19380b2a3a95"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Glib_jll = "7746bdde-850d-59dc-9ae8-88ece973131d"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+OpenSSL_jll = "1.1.10"
+Glib_jll = "2.74.0"

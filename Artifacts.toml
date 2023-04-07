@@ -1,0 +1,143 @@
+[[GlibNetworking]]
+arch = "i686"
+git-tree-sha1 = "c5a0924c983ee7b048b1701307d58e1b48bb199b"
+os = "windows"
+
+    [[GlibNetworking.download]]
+    sha256 = "cc4cd19bd3a6021a7498d49abd55468eb0bd6e3a758af6a827a8af3e99442467"
+    url = "https://github.com/JuliaBinaryWrappers/GlibNetworking_jll.jl/releases/download/GlibNetworking-v2.74.0+0/GlibNetworking.v2.74.0.i686-w64-mingw32.tar.gz"
+[[GlibNetworking]]
+arch = "x86_64"
+git-tree-sha1 = "9aad1e78085f09a01d5eacb247bd44bc5397e717"
+os = "windows"
+
+    [[GlibNetworking.download]]
+    sha256 = "c15765c1938a5214bbc72dc9467aa0a61ec9c538947a90c450755a1c48595831"
+    url = "https://github.com/JuliaBinaryWrappers/GlibNetworking_jll.jl/releases/download/GlibNetworking-v2.74.0+0/GlibNetworking.v2.74.0.x86_64-w64-mingw32.tar.gz"
+[[GlibNetworking]]
+arch = "aarch64"
+git-tree-sha1 = "33f048104324d8003ed5fd96a40692b52214fff5"
+os = "macos"
+
+    [[GlibNetworking.download]]
+    sha256 = "7e7db3cdd6c32b3d3f660a2c6fcb1d537ec6e7d9bf035cc1897fbf0358e05b95"
+    url = "https://github.com/JuliaBinaryWrappers/GlibNetworking_jll.jl/releases/download/GlibNetworking-v2.74.0+0/GlibNetworking.v2.74.0.aarch64-apple-darwin.tar.gz"
+[[GlibNetworking]]
+arch = "aarch64"
+git-tree-sha1 = "a3493f2aab021bcb5b2ff9f157fd01870aab1f51"
+libc = "glibc"
+os = "linux"
+
+    [[GlibNetworking.download]]
+    sha256 = "e8294a48caf39d2ebf10aad82a7bd72e34b400813a629950cf2f08650e68474c"
+    url = "https://github.com/JuliaBinaryWrappers/GlibNetworking_jll.jl/releases/download/GlibNetworking-v2.74.0+0/GlibNetworking.v2.74.0.aarch64-linux-gnu.tar.gz"
+[[GlibNetworking]]
+arch = "aarch64"
+git-tree-sha1 = "fa7219ed5b9a81ab9035113747196056a7ef6797"
+libc = "musl"
+os = "linux"
+
+    [[GlibNetworking.download]]
+    sha256 = "6fde997da742c96a3aa5c3427a71b756de30919991d4415b2b47528eb799ef1e"
+    url = "https://github.com/JuliaBinaryWrappers/GlibNetworking_jll.jl/releases/download/GlibNetworking-v2.74.0+0/GlibNetworking.v2.74.0.aarch64-linux-musl.tar.gz"
+[[GlibNetworking]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d7c512a6efa7b99360c0581091c354933e56a6c0"
+libc = "glibc"
+os = "linux"
+
+    [[GlibNetworking.download]]
+    sha256 = "bb04be8d5bf3a1437af6a32de72291df454297c1af029b99e9bf7538b2a14012"
+    url = "https://github.com/JuliaBinaryWrappers/GlibNetworking_jll.jl/releases/download/GlibNetworking-v2.74.0+0/GlibNetworking.v2.74.0.armv6l-linux-gnueabihf.tar.gz"
+[[GlibNetworking]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "86755fdc29abf7abbc327684e7ac04c7c4badac5"
+libc = "musl"
+os = "linux"
+
+    [[GlibNetworking.download]]
+    sha256 = "6b3ba42bdf362e49a56d0049595b8e3d8edb4f974f98914fc5fd061b2c83bb9b"
+    url = "https://github.com/JuliaBinaryWrappers/GlibNetworking_jll.jl/releases/download/GlibNetworking-v2.74.0+0/GlibNetworking.v2.74.0.armv6l-linux-musleabihf.tar.gz"
+[[GlibNetworking]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0bf3411f24a7c9bec72e699847d28aadb611cbc2"
+libc = "glibc"
+os = "linux"
+
+    [[GlibNetworking.download]]
+    sha256 = "969be34193f2cfe420c20387c1b8f8383fc96a68ef1a5472484d1ed655c646e1"
+    url = "https://github.com/JuliaBinaryWrappers/GlibNetworking_jll.jl/releases/download/GlibNetworking-v2.74.0+0/GlibNetworking.v2.74.0.armv7l-linux-gnueabihf.tar.gz"
+[[GlibNetworking]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "5008eab1f6374b8cf616c3786e0272d0b4ba9a66"
+libc = "musl"
+os = "linux"
+
+    [[GlibNetworking.download]]
+    sha256 = "72b7a45a211008aa6ca55cebdac8ae893911eb0e8c3fabcf759046bc30cedfe9"
+    url = "https://github.com/JuliaBinaryWrappers/GlibNetworking_jll.jl/releases/download/GlibNetworking-v2.74.0+0/GlibNetworking.v2.74.0.armv7l-linux-musleabihf.tar.gz"
+[[GlibNetworking]]
+arch = "i686"
+git-tree-sha1 = "43559bef058b14c320e8851c3189ee3b35b226eb"
+libc = "glibc"
+os = "linux"
+
+    [[GlibNetworking.download]]
+    sha256 = "b161e7b661e98c6f2308777139ba713f39a713c840008219783debb7fdf1610c"
+    url = "https://github.com/JuliaBinaryWrappers/GlibNetworking_jll.jl/releases/download/GlibNetworking-v2.74.0+0/GlibNetworking.v2.74.0.i686-linux-gnu.tar.gz"
+[[GlibNetworking]]
+arch = "i686"
+git-tree-sha1 = "2e8832c1406f89c20452a47076e0978027168210"
+libc = "musl"
+os = "linux"
+
+    [[GlibNetworking.download]]
+    sha256 = "333e3f53bcd69f2f642d22e71e00ccb7f65d6f17af5fcf607dc89f75ebfb887c"
+    url = "https://github.com/JuliaBinaryWrappers/GlibNetworking_jll.jl/releases/download/GlibNetworking-v2.74.0+0/GlibNetworking.v2.74.0.i686-linux-musl.tar.gz"
+[[GlibNetworking]]
+arch = "powerpc64le"
+git-tree-sha1 = "0e6e13778af4d43794d7534204a3499175301c59"
+libc = "glibc"
+os = "linux"
+
+    [[GlibNetworking.download]]
+    sha256 = "0bbc85f5c5fb2ea07ab608d66e29c65afa38f89793011228ddd2391fbd9cd9ab"
+    url = "https://github.com/JuliaBinaryWrappers/GlibNetworking_jll.jl/releases/download/GlibNetworking-v2.74.0+0/GlibNetworking.v2.74.0.powerpc64le-linux-gnu.tar.gz"
+[[GlibNetworking]]
+arch = "x86_64"
+git-tree-sha1 = "f25c4821b9ee38bc5912fc8783e27bdb05b3fc6a"
+os = "macos"
+
+    [[GlibNetworking.download]]
+    sha256 = "ef60be57d1c2e1b1f7b3de503a879a428ddbfc9258c3fab862314af41a3fa3a9"
+    url = "https://github.com/JuliaBinaryWrappers/GlibNetworking_jll.jl/releases/download/GlibNetworking-v2.74.0+0/GlibNetworking.v2.74.0.x86_64-apple-darwin.tar.gz"
+[[GlibNetworking]]
+arch = "x86_64"
+git-tree-sha1 = "7a0a41854a4ad494f87d537a92dbce2c11a1f85b"
+libc = "glibc"
+os = "linux"
+
+    [[GlibNetworking.download]]
+    sha256 = "e8a4cf6fee8f213464efd98b3ea78bd1ab28ec3f7e13a54787e0b315a94470d1"
+    url = "https://github.com/JuliaBinaryWrappers/GlibNetworking_jll.jl/releases/download/GlibNetworking-v2.74.0+0/GlibNetworking.v2.74.0.x86_64-linux-gnu.tar.gz"
+[[GlibNetworking]]
+arch = "x86_64"
+git-tree-sha1 = "e620fa442eb5cf4dc3154189eb71d8537e3eea31"
+libc = "musl"
+os = "linux"
+
+    [[GlibNetworking.download]]
+    sha256 = "63bacfc1220f830d38a8c40c582bc3ec2d20cd058fb11acfeaeb99c4bd7d4404"
+    url = "https://github.com/JuliaBinaryWrappers/GlibNetworking_jll.jl/releases/download/GlibNetworking-v2.74.0+0/GlibNetworking.v2.74.0.x86_64-linux-musl.tar.gz"
+[[GlibNetworking]]
+arch = "x86_64"
+git-tree-sha1 = "2786d1c5e84c9242b50eead93c045d2d2cddd6fa"
+os = "freebsd"
+
+    [[GlibNetworking.download]]
+    sha256 = "778b76f405b5eca05ec6f8252eb08403c6753b4a3a2b5e5370bc3e6f09f4369f"
+    url = "https://github.com/JuliaBinaryWrappers/GlibNetworking_jll.jl/releases/download/GlibNetworking-v2.74.0+0/GlibNetworking.v2.74.0.x86_64-unknown-freebsd.tar.gz"
